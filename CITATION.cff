@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Willie"
+    given-names: "Chalmers"
+title: "Neurosym"
+version: 0.1.0
+date-released: 20XX-XX-XX
+url: "https://github.com/WillieCubed/neurosym"
