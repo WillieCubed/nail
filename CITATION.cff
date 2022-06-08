@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Chalmers"
     given-names: "Willie"
-title: "Neurosym"
+title: "NAIL"
 version: 0.1.0
 date-released: 20XX-XX-XX
-url: "https://github.com/WillieCubed/neurosym"
+url: "https://github.com/WillieCubed/nail"

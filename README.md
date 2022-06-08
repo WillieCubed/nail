@@ -1,4 +1,4 @@
-# Neurosym: A Library for Creating Neurosymbolic Intelligence
+# NAIL: Neurosymbolic AI Library
 
 _This is a gigantic WIP._
 
