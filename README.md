@@ -1,5 +1,7 @@
 # NAIL: Neurosymbolic AI Library
 
+[![Documentation Status](https://readthedocs.org/projects/nail/badge/?version=latest)](https://nail.readthedocs.io/en/latest/?badge=latest)
+
 _This is a gigantic WIP._
 
 ## About
